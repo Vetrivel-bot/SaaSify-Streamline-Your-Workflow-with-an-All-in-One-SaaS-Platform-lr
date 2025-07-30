@@ -124,7 +124,7 @@ export default function Testimonials() {
 
                   <div className="flex items-center gap-3 md:gap-4 pt-4 border-t border-border">
                     <Avatar className="size-10 md:size-12">
-                      <AvatarImage src={testimonial.avatar || "/placeholder.svg"} alt={testimonial.name} />
+                      <AvatarImage src={testimonial.avatar || "/placeholder.png"} alt={testimonial.name} />
                       <AvatarFallback className="bg-muted text-foreground">
                         {testimonial.name
                           .split(" ")

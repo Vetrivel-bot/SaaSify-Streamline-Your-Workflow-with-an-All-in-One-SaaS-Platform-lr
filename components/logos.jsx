@@ -61,7 +61,7 @@ export default function Logos() {
               >
                 <div className="flex items-center justify-center h-6 md:h-8 opacity-70 grayscale transition-all hover:opacity-100 hover:grayscale-0">
                   <Image
-                    src={`/placeholder.svg?height=32&width=${logo.width}&text=${logo.name}`}
+                    src={`/placeholder.png?height=32&width=${logo.width}&text=${logo.name}`}
                     alt={`${logo.name} logo`}
                     width={logo.width}
                     height={32}

@@ -163,7 +163,7 @@ export default function Hero() {
                 className="relative rounded-2xl overflow-hidden shadow-2xl bg-card border"
               >
                 <Image
-                  src="/placeholder.svg?height=600&width=800&text=SaaS+Dashboard"
+                  src="/placeholder.png?height=600&width=800&text=SaaS+Dashboard"
                   alt="SaaS Dashboard Interface"
                   width={800}
                   height={600}
