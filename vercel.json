@@ -6,7 +6,7 @@
   "outputDirectory": ".next",
   "functions": {
     "app/**/*.js": {
-      "runtime": "nodejs18.x"
+      "runtime": "now-php"
     }
   },
   "headers": [
